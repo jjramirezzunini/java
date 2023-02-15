@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/imc/imc.iml" filepath="$PROJECT_DIR$/imc/imc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lista-empleado/lista-empleado.iml" filepath="$PROJECT_DIR$/lista-empleado/lista-empleado.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto-herencia/proyecto-herencia.iml" filepath="$PROJECT_DIR$/proyecto-herencia/proyecto-herencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto-poliformismo/proyecto-poliformismo.iml" filepath="$PROJECT_DIR$/proyecto-poliformismo/proyecto-poliformismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto-relacion-clases/proyecto-relacion-clases.iml" filepath="$PROJECT_DIR$/proyecto-relacion-clases/proyecto-relacion-clases.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proyecto-relacion-clases-2/proyecto-relacion-clases-2.iml" filepath="$PROJECT_DIR$/proyecto-relacion-clases-2/proyecto-relacion-clases-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/proyectos-java.iml" filepath="$PROJECT_DIR$/.idea/proyectos-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/relacion-banco/relacion-banco.iml" filepath="$PROJECT_DIR$/relacion-banco/relacion-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/signo-zodiacal/signo-zodiacal.iml" filepath="$PROJECT_DIR$/signo-zodiacal/signo-zodiacal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tienda-ropa/tienda-ropa.iml" filepath="$PROJECT_DIR$/tienda-ropa/tienda-ropa.iml" />
+    </modules>
+  </component>
+</project>
